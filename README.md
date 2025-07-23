@@ -4,7 +4,7 @@
 
 In this project, I have created Responsive Nike Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-<a href="https://abhay19sharma.github.io/Responsive-nike-clone/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
