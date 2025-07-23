@@ -4,13 +4,13 @@
 
 In this project, I have created Responsive Nike Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-<a href="#"><strong>➥ Live Demo</strong></a>
+<a href="https://abhay19sharma.github.io/Responsive-nike-clone/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 ### Demo Screeshots
 
-![Responsive Nike Clone Desktop Demo](./readme-images/Responsive-Ecommerce-Website.png "Desktop Demo")
+![Responsive Nike Clone Desktop Demo](./images/Responsive-Ecommerce-Website.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -25,13 +25,13 @@ To run **responsive-nike-clone** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone #
+sudo git clone https://github.com/Abhay19sharma/Responsive-nike-clone
 ```
 
 Windows:
 
 ```bash
-git clone #
+git clone https://github.com/Abhay19sharma/Responsive-nike-clone
 ```
 
 ### Contact
